@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Abhi! 👋
+
+#### A bit about me
+* I am a student at UC Santa Cruz studying Computer Science.
+* I am currently interested in the fields of networking, cloud computing, and distributed systems.
+* My industry experience ranges from interning at a startup, to a small business, to most recently working on developing a full-stack application for the Silk Team at Amazon Web Services!
+
+If you would like to get in contact with me, feel free to email me abragh02[at]gmail.com in regards to any opportunities. Thanks for stopping by!
 
 <!--
 **TheBee360/TheBee360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
